@@ -4,7 +4,6 @@ gunicorn
 gspread
 pytrends
 
-getpass
 requests
 json
 gspread
