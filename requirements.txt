@@ -1,2 +1,16 @@
 flask
 gunicorn
+
+gspread
+pytrends
+
+getpass
+requests
+json
+gspread
+datetime
+time
+pandas
+lxml
+requests
+google.oauth2
